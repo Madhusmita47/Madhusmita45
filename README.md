@@ -1,5 +1,5 @@
 
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif"/>
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" height="50" width="40"/>
 <h1 align="center">Hi 👋, I'm Madhusmita Sahoo</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/1e166b113111309.60217f715c007.gif">
