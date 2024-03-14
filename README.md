@@ -57,5 +57,6 @@
                 alt="react" width="40" height="40" /> </a> <a href="https://redis.io" target="_blank" rel="noreferrer">
             <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/redis-logo.png"
                 alt="redis" width="40" height="40" /> </a>  </p>
+                  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anilg1996&" alt="madhusmita1996" />
 
     </p>
