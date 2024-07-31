@@ -4,7 +4,7 @@
 <h3 align="center">A passionate FullStack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/1e166b113111309.60217f715c007.gif">
 
-- 🌱 I’m currently learning _ReactJs_
+- 🌱 I’m currently learning _React Native_
 
 - 💬 Ask me about _MERN_
 
